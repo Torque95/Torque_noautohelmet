@@ -12,11 +12,11 @@ Features
 
 Install (Drag & Drop)
 
-	1.Put the no_auto_helmet folder in resources/.
+	1.Put the Torque_noautohelmet folder in resources/.
 
 	2.Add to server.cfg:
 
-ensure no_auto_helmet
+ensure Torque_noautohelmet
 
 	3.Restart the server.
 
